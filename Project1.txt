@@ -1,3 +1,4 @@
 - This is the 1st line in the project1 file.
 - Changed the file
 - Added line by yaswanth9220
+- adding other line without pulling to see the merge conflicts  
